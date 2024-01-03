@@ -16,3 +16,5 @@ Psuedocode Outline:
 3: Relate the search traffic to stock price patterns.
 
 4: Create a time series model with Prophet.
+
+Code was created by myself with help from Codeium and ChatGPT.
